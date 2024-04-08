@@ -1,1 +1,1 @@
-# CYP2C6_psychotropic_prediction
+# CYP2D6_psychotropic_prediction
