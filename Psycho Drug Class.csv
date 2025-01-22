@@ -1,30 +1,30 @@
-﻿CLONIDINE,"Antiadrenergic agents, centrally acting"
-GUANFACINE,"Antiadrenergic agents, centrally acting"
-LITHIUM CARBONATE,Antimanic agents
-ARIPIPRAZOLE,Atypical antipsychotics
-ASENAPINE,Atypical antipsychotics
-OLANZAPINE,Atypical antipsychotics
-PALIPERIDONE,Atypical antipsychotics
-QUETIAPINE,Atypical antipsychotics
-RISPERIDONE,Atypical antipsychotics
-ZIPRASIDONE,Atypical antipsychotics
-METHYLPHENIDATE,CNS (central nervous system) stimulants
-BUPROPION,Miscellaneous antidepressants
-HALOPERIDOL,Miscellaneous antipsychotic agents
-CHLORPROMAZINE,Phenothiazine antipsychotics
-FLUPHENAZINE,Phenothiazine antipsychotics
-PERPHENAZINE,Phenothiazine antipsychotics
-TRAZODONE,Phenylpiperazine antidepressants
-DULOXETINE,SNRIs (Serotonin-norepinephrine reuptake inhibitors)
-VENLAFAXINE,SNRIs (Serotonin-norepinephrine reuptake inhibitors)
-CITALOPRAM,SSRIs (Selective serotonin reuptake inhibitors)
-ESCITALOPRAM,SSRIs (Selective serotonin reuptake inhibitors)
-FLUOXETINE,SSRIs (Selective serotonin reuptake inhibitors)
-FLUVOXAMINE,SSRIs (Selective serotonin reuptake inhibitors)
-SERTRALINE,SSRIs (Selective serotonin reuptake inhibitors)
-MIRTAZAPINE,Tetracyclic antidepressants
-AMITRIPTYLINE,Tricyclic antidepressants
-CLOMIPRAMINE,Tricyclic antidepressants
-DOXEPIN,Tricyclic antidepressants
-IMIPRAMINE,Tricyclic antidepressants
-NORTRIPTYLINE,Tricyclic antidepressants
+﻿CLONIDINE,"Antiadrenergic agents, centrally acting",0,
+GUANFACINE,"Antiadrenergic agents, centrally acting",0,
+LITHIUM CARBONATE,Antimanic agents,0,
+ARIPIPRAZOLE,Atypical antipsychotics,1,
+ASENAPINE,Atypical antipsychotics,0,
+OLANZAPINE,Atypical antipsychotics,3,
+PALIPERIDONE,Atypical antipsychotics,0,RISPERIDONE
+QUETIAPINE,Atypical antipsychotics,3,
+RISPERIDONE,Atypical antipsychotics,1,PALIPERIDONE
+ZIPRASIDONE,Atypical antipsychotics,3,
+METHYLPHENIDATE,CNS (central nervous system) stimulants,3,
+BUPROPION,Miscellaneous antidepressants,2,
+HALOPERIDOL,Miscellaneous antipsychotic agents,1,
+CHLORPROMAZINE,Phenothiazine antipsychotics,0,PERPHENAZINE
+FLUPHENAZINE,Phenothiazine antipsychotics,0,PERPHENAZINE
+PERPHENAZINE,Phenothiazine antipsychotics,3,"CHLORPROMAZINE, FLUPHENAZINE"
+TRAZODONE,Phenylpiperazine antidepressants,0,
+DULOXETINE,SNRIs (Serotonin-norepinephrine reuptake inhibitors),0,
+VENLAFAXINE,SNRIs (Serotonin-norepinephrine reuptake inhibitors),1,
+CITALOPRAM,SSRIs (Selective serotonin reuptake inhibitors),3,ESCITALOPRAM
+ESCITALOPRAM,SSRIs (Selective serotonin reuptake inhibitors),3,CITALOPRAM
+FLUOXETINE,SSRIs (Selective serotonin reuptake inhibitors),3,FLUVOXAMINE
+FLUVOXAMINE,SSRIs (Selective serotonin reuptake inhibitors),1,FLUOXETINE
+SERTRALINE,SSRIs (Selective serotonin reuptake inhibitors),3,
+MIRTAZAPINE,Tetracyclic antidepressants,2,
+AMITRIPTYLINE,Tricyclic antidepressants,1,NORTRIPTYLINE
+CLOMIPRAMINE,Tricyclic antidepressants,1,IMIPRAMINE
+DOXEPIN,Tricyclic antidepressants,1,
+IMIPRAMINE,Tricyclic antidepressants,1,CLOMIPRAMINE
+NORTRIPTYLINE,Tricyclic antidepressants,1,AMITRIPTYLINE
